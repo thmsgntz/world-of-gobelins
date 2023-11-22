@@ -1,1 +1,1 @@
-# world-of-gobelins
+# world-of-goblins
